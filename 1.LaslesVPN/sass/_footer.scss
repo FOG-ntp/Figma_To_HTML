@@ -1,0 +1,39 @@
+.footer{
+    background-color: $gray-light-color;
+    &-container{
+        display: grid;
+        grid-template-columns: 3fr 1fr 1fr 1fr;
+        grid-gap: 0 126px;
+    }
+    &-logo{
+        display: inline-block;
+        margin-bottom: 20px;
+    }
+    &-title{
+        margin-bottom: 20px;
+    }
+    &-desc{
+        font-size: 16px;
+        font-weight: 500;
+        line-height: calc(30/16);
+        min-width: 340px;
+        margin-bottom: 30px;
+    }
+    &-social{
+        display:flex;
+        align-items: center;
+    }
+    &-social-item{
+        background-color: white;
+        margin-bottom: 30px;
+    }
+    &-links{
+        list-style-type: none;
+    }
+    &-link{
+        color: inherit;
+    }
+    &-item{
+        margin-bottom: 10px;
+    }
+}

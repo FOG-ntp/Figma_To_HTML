@@ -1,0 +1,25 @@
+.feature{
+    margin-bottom: 130px;
+    &-container{
+        display:flex;
+        justify-content: space-between;
+        align-items: flex-end;
+        gap: 0 170px;
+    }
+    &-desc{
+        margin-bottom: 20px;
+    }
+    &-list{
+        list-style-type: none;
+    }
+    &-item{
+        display: flex;
+        align-items: center;
+        gap: 0 10px;
+        margin-bottom: 20px;
+        font-size: 14px;
+        background-color: white;
+    }
+
+
+}
