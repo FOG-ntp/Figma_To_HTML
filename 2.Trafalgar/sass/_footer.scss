@@ -1,0 +1,33 @@
+.footer{
+  background: linear-gradient(183.41deg, #67C3F3 -8.57%, #5A98F2 82.96%);
+  padding: 118px 0 113px;
+  &-main{
+    display: grid;
+    grid-template-columns: 3fr 1fr 1fr 1fr;
+    grid-gap: 0 34px;
+    color: white;
+  }
+  &-logo{
+    display: inline-block;
+    margin-bottom: 17px;
+  }
+  &-desc{
+    margin-bottom: 31px;
+    font-size: 18px;
+    line-height: calc(28/18);
+  }
+  &-heading{
+    font-size: 20px;
+    margin-bottom: 30px;
+  }
+  &-links{
+    list-style: none;
+  }
+  &-item{
+    margin-bottom: 15px;
+  }
+  &-link{
+    color: inherit;
+    font-size: 18px;
+  }
+}

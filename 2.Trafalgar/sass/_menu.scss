@@ -1,0 +1,17 @@
+.menu{
+        display: flex;
+        align-items: center;
+        list-style: none;
+        gap: 0 40px;
+        
+    &-link{
+        color: inherit;
+        font-size: 18px;
+        font-weight: 400;
+        line-height: calc(23/18);
+        transition: all 0.2s linear;
+    }
+    &-link:hover {
+        color: $black;
+    }
+}
