@@ -26,12 +26,12 @@ Template Figma: <a href="https://www.figma.com/community/file/892358789568947362
 
 ## 3. Band Template
 
-Live Demo: <a href="https://www.w3schools.com/w3css/tryw3css_templates_band.htm">The Band</a>
+Live Demo: <a href="https://figma-to-html-zk4d.vercel.app/">The Band</a>
 
 Template Figma: <a href="https://www.w3schools.com/w3css/tryw3css_templates_band.html">https://www.w3schools.com/w3css/tryw3css_templates_band.html</a>
 
 <img
-  src="image.png"
+  src="https://user-images.githubusercontent.com/99815527/221350626-46a0630f-035e-43fd-8c22-b94d9e4aa0d3.png"
   alt="Alt text"
   title="Optional title"
   style="display: inline-block; margin: 0 auto; width: 1300px">
