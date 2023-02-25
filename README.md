@@ -24,3 +24,15 @@ Template Figma: <a href="https://www.figma.com/community/file/892358789568947362
   title="Optional title"
   style="display: inline-block; margin: 0 auto; width: 1300px">
 
+## 3. Band Template
+
+Live Demo: <a href="https://www.w3schools.com/w3css/tryw3css_templates_band.htm">The Band</a>
+
+Template Figma: <a href="https://www.w3schools.com/w3css/tryw3css_templates_band.html">https://www.w3schools.com/w3css/tryw3css_templates_band.html</a>
+
+<img
+  src="image.png"
+  alt="Alt text"
+  title="Optional title"
+  style="display: inline-block; margin: 0 auto; width: 1300px">
+
